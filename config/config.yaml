@@ -1,0 +1,6 @@
+# difference between the yaml and json?
+# YAML is more human-readable and allows comments, while JSON is more compact and easier for machines to parse.
+# in YAML we follow indentation approach. In JSON we use curly braces and square brackets.
+# YAML is often used for configuration files, while JSON is commonly used for data interchange.
+# YAML supports complex data structures like lists and dictionaries, while JSON is more limited in this regard.
+
